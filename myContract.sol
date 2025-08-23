@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-contract SimpleStorage {
+contract MyContract {
     uint256 private value;
     address public owner;
 
